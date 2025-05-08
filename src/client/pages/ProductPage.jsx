@@ -1,11 +1,13 @@
 import React from "react";
 import Header from "../../layouts/Header";
 import Footer from "../../layouts/Footer";
-import HeroComponent from "../../Reusable/Herosection";
+import HeroComponent from "../../Reusable/HeroSection";
 import CategoryCarousel from "../../Reusable/Autolistingcategory";
 import ListingProduct from "./ListingProduct";
 import FAQSection from "../../Reusable/FaqSection";
 import backimage from '../../Images/IM 6.jpg'
+
+// product page be this 
 
 const ProductPage = () => {
   return (
