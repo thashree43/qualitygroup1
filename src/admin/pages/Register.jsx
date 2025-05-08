@@ -3,7 +3,7 @@ import { useFormik } from 'formik';
 import * as Yup from 'yup';
 import { toast } from 'react-toastify';
 import { Link, useNavigate } from 'react-router-dom'; // Import useNavigate for redirect
-import Logo from '../../assets/Ogera_Logo.png';
+import Logo from '../../assets/OgeraLogo.png';
 import BackgroundImage from '../../assets/Ogera.png';
 import PasswordStrengthField from '../../Reusable/Passwordfield';
 import { useAdminregisterMutation } from '../../api/Adminapi';

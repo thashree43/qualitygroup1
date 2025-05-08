@@ -1,12 +1,12 @@
 import React from 'react';
 import Header from '../../layouts/Header';
 import Footer from '../../layouts/Footer';
-import backimage from "../../Images/Ogera_Logo.png";
+import backimage from "../../assets/OgeraLogo.png";
 import CEO from "../../Images/CEO.jpg"
 import Quality from "../../Images/qualitylogo.jpg"
 import company from "../../Images/company.webp"
 import corporate from "../../Images/Corporate.webp"
-import team from "../../assets/Ogera_Logo.png"
+import team from "../../assets/OgeraLogo.png"
 
 // Hero Component
 const HeroComponent = () => {

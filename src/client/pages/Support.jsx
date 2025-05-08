@@ -25,7 +25,7 @@ const Support = () => {
               <h2 className="text-xl font-semibold text-gray-800 mb-2">Customer Support</h2>
               <p className="text-gray-600">For inquiries related to gas booking and delivery.</p>
               <p className="text-lg font-bold text-red-600 mt-2">+91 9037872280</p>
-              <p className="text-blue-600">support@ogera.com</p>
+              <p className="text-blue-600">Info@ogeraglobal.com</p>
             </div>
 
             {/* Technical Support */}
@@ -33,7 +33,7 @@ const Support = () => {
               <h2 className="text-xl font-semibold text-gray-800 mb-2">Service Support</h2>
               <p className="text-gray-600">For Product-related issues .</p>
               <p className="text-lg font-bold text-red-600 mt-2">+91 1800-425-5326</p>
-              <p className="text-blue-600">service@ogera.com</p>
+              <p className="text-blue-600">service@ogeraglobal.com</p>
             </div>
 
             {/* Corporate Office */}
@@ -42,7 +42,7 @@ const Support = () => {
               <p className="text-gray-600">Quality Ogera International LLP</p>
               <p className="text-gray-500">No. 844/238, 3rd Floor, Sonnappanahalli Gram Panchayat, Kadiganahalli Village, Jala Hobli
               Vidyanagar Bangalore North, 562 157</p>
-              <p className="text-blue-600">info@ogeraglobal.com</p>
+              <p className="text-blue-600">Info@ogeraglobal.com</p>
             </div>
           </section>
 

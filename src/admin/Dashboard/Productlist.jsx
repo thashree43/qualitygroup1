@@ -167,6 +167,7 @@ const Productlist = () => {
             if (editingProductId) {
                 await updateproduct({ id: editingProductId, formData: data }).unwrap();
                 toast.success("Product updated successfully");
+                refetch();
             } else {
                 await addProduct(data).unwrap();
                 toast.success("Product added successfully");

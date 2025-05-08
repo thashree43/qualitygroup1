@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import LOGO from "../assets/Ogera_Logo.png";
+import LOGO from "../assets/OgeraLogo.png";
 import "../style/Home.css";
 
 const Header = () => {

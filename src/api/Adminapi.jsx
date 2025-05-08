@@ -98,13 +98,13 @@ export const AdminApislice = createApi({
             }),
             invalidatesTags: ['Products']
         }),
-        updateproduct:builder.mutation({
-            query:({id,formData})=>({
-                url:`/updateproduct/${id}`,
-                method:"PATCH",
-                body:formData
-            })
-        }),
+        updateproduct: builder.mutation({
+            query: ({ id, formData }) => ({
+                url: `/updateproduct/${id}`,
+                method: "PATCH",
+                body: formData,
+            }),
+        }),        
         deleteproduct: builder.mutation({
             query: (id) => ({
                 url: `/deleteproduct/${id}`,

@@ -16,7 +16,7 @@ import {
   PowerIcon,
 } from '@heroicons/react/24/solid';
 import { ChevronRightIcon, ChevronDownIcon } from '@heroicons/react/24/outline';
-import Logo from '../../assets/Ogera_Logo.png';
+import Logo from '../../assets/OgeraLogo.png';
 
 //  import { toast } from 'react-toastify';
 import { useDispatch } from 'react-redux';

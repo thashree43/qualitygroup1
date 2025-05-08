@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { toast } from 'react-toastify';
-import Logo from '../../assets/Ogera_Logo.png';
-import BackgroundImage from '../../assets/Ogera Logo-color-1.png';
+import Logo from '../../assets/OgeraLogo.png';
+import BackgroundImage from '../../assets/Ogera.png';
 import {useVerifyotpMutation,useResendotpMutation} from "../../api/Adminapi"
 import { useLocation } from 'react-router-dom';
 
